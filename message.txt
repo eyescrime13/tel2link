@@ -1,0 +1,2 @@
+{"update_id":509892269,
+"message":{"message_id":513,"from":{"id":789028559,"is_bot":false,"first_name":"Stef\u2019","username":"eyescrime13","language_code":"fr","is_premium":true},"chat":{"id":789028559,"first_name":"Stef\u2019","username":"eyescrime13","type":"private"},"date":1686779312,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
